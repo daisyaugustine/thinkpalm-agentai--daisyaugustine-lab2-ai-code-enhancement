@@ -1,5 +1,7 @@
 Name : Daisy Augustine
+
 Track: Frontend Dev
+
 Lab: Lab 2 — AI Code Enhancement
 
 Enhanced Details.
